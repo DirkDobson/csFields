@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/bin/Debug/netcoreapp2.1/Fields.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/bin/Debug/netcoreapp2.1/Fields.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/bin/Debug/netcoreapp2.1/Fields.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/bin/Debug/netcoreapp2.1/Fields.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/bin/Debug/netcoreapp2.1/Fields.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/obj/Debug/netcoreapp2.1/Fields.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/obj/Debug/netcoreapp2.1/Fields.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/obj/Debug/netcoreapp2.1/Fields.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/obj/Debug/netcoreapp2.1/Fields.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/obj/Debug/netcoreapp2.1/Fields.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Fields/obj/Debug/netcoreapp2.1/Fields.pdb
